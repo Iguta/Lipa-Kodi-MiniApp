@@ -1,0 +1,16 @@
+{
+  "modes": [
+    {
+      "title": "tenants page",
+      "page": "pages/tenant/tenant"
+    },
+    {
+      "title": "Landlord Page",
+      "page": "pages/landlord/landlord"
+    },
+    {
+      "title": "Home Page",
+      "page": "pages/index/index"
+    }
+  ]
+}

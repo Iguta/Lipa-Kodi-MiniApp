@@ -1,0 +1,21 @@
+.welcome{
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+  
+}
+.landlord, .tenant{
+  background-color: #1FF51B;
+  height: 50px;
+  width: 100px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  cursor: pointer;
+}
+.request-btn{
+  margin: 20%;
+  border-radius: 10px;
+}

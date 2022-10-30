@@ -1,0 +1,10 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/landlord/landlord",
+    "pages/tenant/tenant"
+  ],
+  "window": {
+    "defaultTitle": "Lipa Kodi"
+  }
+}
