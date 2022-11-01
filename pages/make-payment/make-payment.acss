@@ -1,0 +1,14 @@
+text{
+  display: flex;
+  justify-content: center;
+}
+.make-payment{
+background-color: #1DE819;
+width: 50%;
+height: 300px;
+}
+
+.parent{
+  display: flex;
+  justify-content: center;
+}

@@ -1,4 +1,15 @@
-<view>
-  <text>Landlords</text>
+<view class="wrapper-view">
+  <navigator url="../AddHouse/AddHouse">
+    <button size="default" type="primary">Add House</button>
+  </navigator>
+  <navigator url="../RegisterTenant/RegisterTenant">
+    <button size="default" type="primary">Register Tenant</button>
+  </navigator>
+  <navigator url="">
+    <button size="default" type="primary">View House Details</button>
+  </navigator>
+
 </view>
-<c-button  className="fail">Home</c-button>
+
+
+<!--<c-button className="fail">Home</c-button> -->

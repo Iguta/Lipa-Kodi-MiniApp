@@ -2,7 +2,10 @@
   "pages": [
     "pages/index/index",
     "pages/landlord/landlord",
-    "pages/tenant/tenant"
+    "pages/tenant/tenant",
+    "pages/RegisterTenant/RegisterTenant",
+    "pages/AddHouse/AddHouse",
+    "pages/make-payment/make-payment"
   ],
   "window": {
     "defaultTitle": "Lipa Kodi"

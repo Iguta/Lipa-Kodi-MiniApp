@@ -1,5 +1,9 @@
 {
   "usingComponents": {
     "c-button": "/components/c-button/c-button"
-  }
+  },
+  "pages":[
+    "pages/RegisterTenant/RegisterTenant",
+    "pages/AddHouse/AddHouse"
+  ]
 }

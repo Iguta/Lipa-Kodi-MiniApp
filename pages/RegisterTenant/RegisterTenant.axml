@@ -1,0 +1,10 @@
+<view class="register-view">
+  <view class="wrapper-view">
+    <input placeholder="First Name" type="text"/>
+    <input placeholder="Last Name" type="text"/>
+    <input placeholder="National ID number"type="text"/>
+    <input placeholder="Phone Number" type="text"/>
+    <input placeholder="House Number" type="text"/>
+  </view>
+</view>
+<button size="default">Register Tenant</button>

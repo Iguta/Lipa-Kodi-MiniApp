@@ -11,8 +11,8 @@
       </view>
     </navigator>
   </view>
-  <input placeholder="First Name" onInput="handleInput"/>
+  <!-- <input placeholder="First Name" onInput="handleInput"/>
 
   <button size="default" type="primary" onTap="handleRequest" class="request-btn">Make request</button>
-  <button size="default" type="primary"  class="request-btn" onTap="handlePayment">Make Payment</button>
+  <button size="default" type="primary"  class="request-btn" onTap="handlePayment">Make Payment</button> -->
 </view>

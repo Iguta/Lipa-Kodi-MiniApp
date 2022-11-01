@@ -1,3 +1,6 @@
 <view>
-  <text>Tenants</text>
+  <view class="wrapper">
+    <input placeholder="Enter National ID" required type="number"/>
+    <button size="default" type="submit">Make Payment</button>
+  </view>
 </view>

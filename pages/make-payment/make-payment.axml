@@ -1,0 +1,11 @@
+<view class="parent">
+  <view class="make-payment">
+    <text> Do you want to pay
+    Ksh. 10,000 
+    for House No. A001?
+
+    Enter PIN
+    </text>
+    <!-- <input type="number" maxlength="4" minlength="4" /> -->
+  </view>
+</view>

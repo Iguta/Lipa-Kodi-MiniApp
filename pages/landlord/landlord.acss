@@ -1,0 +1,10 @@
+.wrapper-view{
+  padding: 20px;
+}
+button{
+  background-color: #1FF51B;
+  border: none;
+  margin: 20px auto;
+  width: 200px;
+  color: #000000
+}

@@ -1,0 +1,10 @@
+<view class="register-view">
+  <view class="wrapper-view">
+    <input placeholder="Plot Number" type="text"/>
+    <input placeholder="House Number" type="text"/>
+    <input placeholder="Rate"type="number"/>
+    <input placeholder="Type" type="number"/>
+    <input placeholder="Location" type="text"/>
+  </view>
+</view>
+<button size="default">Register House</button>

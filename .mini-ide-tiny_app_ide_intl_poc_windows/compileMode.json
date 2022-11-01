@@ -11,6 +11,18 @@
     {
       "title": "Home Page",
       "page": "pages/index/index"
+    },
+    {
+      "title": "Register Tenant",
+      "page": "pages/RegisterTenant/RegisterTenant"
+    },
+    {
+      "title": "Add House",
+      "page": "pages/AddHouse/AddHouse"
+    },
+    {
+      "title": "Make Payment",
+      "page": "pages/make-payment/make-payment"
     }
   ]
 }

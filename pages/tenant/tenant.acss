@@ -1,0 +1,17 @@
+button{
+  background-color: #1DE819;
+  width: 200px;
+}
+input{
+  width: 100%;
+  
+}
+button{
+  width: 80%;
+  margin-top: 20px;
+  border-radius: 5px;
+}
+.wrapper{
+  width: 60%;
+  margin: 0 auto;
+}
